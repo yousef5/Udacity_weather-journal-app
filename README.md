@@ -2,7 +2,7 @@
 
  My second project
 
- ## My Steps
+ # My Steps
   I used  &units=metric to get the Celsius Temperature.
 * I created an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 * I update HTML and CSS files to make the UI more smart.
